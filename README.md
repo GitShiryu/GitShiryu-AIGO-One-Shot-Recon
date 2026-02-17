@@ -60,4 +60,5 @@ This software is a **proprietary tool** developed for high-performance security 
 
 ## 📸 Interface Preview
 
-<img width="1344" height="768" alt="One_Shot_Recon" src="https://github.com/user-attachments/assets/dac57758-6857-4089-b2e9-94725f2e04b0" />
+<img width="1365" height="740" alt="Prova de conceito do orquestrador AIGO ONE SHOT RECON" src="https://github.com/user-attachments/assets/535caa9e-3737-4bf9-b6fc-d7f0f420be91" />
+
