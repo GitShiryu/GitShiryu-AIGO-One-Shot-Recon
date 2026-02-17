@@ -1,5 +1,5 @@
 # 🛡️ A.I.G.O. One-Shot Recon (V2.1)
-> **Proprietary Automated Security Orchestrator** > *Developed by Rômulo - DevShopDigitalBrasil*
+> **Proprietary Automated Security Orchestrator** > *Developed by Rômulo - Magen Code Solutions*
 
 ---
 
